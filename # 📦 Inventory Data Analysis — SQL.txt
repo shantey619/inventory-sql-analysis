@@ -1,0 +1,29 @@
+# 📦 Inventory Data Analysis — SQL Server
+
+## 📌 Project Overview
+Analysis of Inventory data using SQL Server (SSMS).
+
+## 🛠️ Tools Used
+- SQL Server (SSMS)
+- T-SQL
+
+## 📊 Queries Included
+- Total Inventory Summary
+- Top 10 Most Expensive Products
+- Top 10 Best Selling Products
+- Low Stock Alert
+- High Value Inventory
+- Stock Sold Percentage
+- Remaining Stock Value
+- Purchase vs Sold Comparison
+- Budget Category Classification
+
+## 📁 Dataset
+Inventory dataset with 46 products including
+opening stock, units sold, cost price and stock in hand.
+
+## 🔍 Key Insights
+- Laptop and Smartphone have highest inventory value
+- Gaming Chair has lowest stock on hand
+- Premium products (500+) contribute most to total value
+```
